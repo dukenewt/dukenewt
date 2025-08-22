@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dukenewt
-- 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning Javascript, React, and Angular
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me dm me on twitter @samnewt_
+working on a mobile app, and an idiot.
 
 <!---
 dukenewt/dukenewt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
